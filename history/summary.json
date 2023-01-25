@@ -22,7 +22,7 @@
     "url": "https://kukode.com",
     "icon": "https://icons.duckduckgo.com/ip3/kukode.com.ico",
     "slug": "kukode",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1014,
     "timeMonth": 1027,
     "timeYear": 1053,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "Test Broken Site",
