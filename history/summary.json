@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 72,
+    "timeDay": 70,
     "timeWeek": 90,
     "timeMonth": 96,
     "timeYear": 102,
@@ -22,19 +22,19 @@
     "url": "https://kukode.com",
     "icon": "https://icons.duckduckgo.com/ip3/kukode.com.ico",
     "slug": "kukode",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "94.46%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "95.19%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.93%",
     "time": 1354,
-    "timeDay": 3055,
+    "timeDay": 3165,
     "timeWeek": 2535,
     "timeMonth": 1656,
     "timeYear": 1354,
     "dailyMinutesDown": {
-      "2023-02-03": 80
+      "2023-02-03": 69
     }
   },
   {
