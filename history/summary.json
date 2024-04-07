@@ -4,7 +4,7 @@
     "url": "https://kukode.com",
     "icon": "https://icons.duckduckgo.com/ip3/kukode.com.ico",
     "slug": "kukode",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "81.74%",
     "uptimeWeek": "97.39%",
@@ -47,7 +47,7 @@
     "timeMonth": 0,
     "timeYear": 1751,
     "dailyMinutesDown": {
-      "2024-04-07": 1236,
+      "2024-04-07": 1248,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
